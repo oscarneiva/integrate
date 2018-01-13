@@ -1,0 +1,21 @@
+*Desktop app pass data to plugin which one will plot this data graphically.
+
+* Desktop
+	- User input: (x,y), 10 values
+	- Button to pass (x,y) to the plugin
+
+* Plugin
+	-Takes y value and integrate along x axis
+	-Display the result as a table or chart
+
+
+*Desktop
+-vector (ok)
+-in and out (ok)
+-integrate values (ok)
+-read txt
+-read dll
+
+*user interface
+
+*integration of the project
